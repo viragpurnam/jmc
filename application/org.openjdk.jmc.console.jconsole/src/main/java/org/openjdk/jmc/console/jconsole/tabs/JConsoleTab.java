@@ -37,7 +37,7 @@ import java.awt.EventQueue;
 import java.awt.Frame;
 import java.awt.Panel;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.awt.SWT_AWT;

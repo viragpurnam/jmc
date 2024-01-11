@@ -34,7 +34,7 @@ package org.openjdk.jmc.console.ui.tabs.memory;
 
 import java.util.logging.Level;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 import javax.management.MBeanServerConnection;
 import javax.management.ObjectName;
 

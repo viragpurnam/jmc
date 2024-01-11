@@ -32,7 +32,7 @@
  */
 package org.openjdk.jmc.console.ui.subscriptions;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import org.eclipse.swt.layout.FillLayout;
 import org.eclipse.swt.widgets.Composite;

@@ -32,7 +32,7 @@
  */
 package org.openjdk.jmc.console.ui.notification;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import org.eclipse.jface.viewers.ISelectionChangedListener;
 import org.eclipse.jface.viewers.IStructuredSelection;

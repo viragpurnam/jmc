@@ -35,7 +35,7 @@ package org.openjdk.jmc.console.ui.editor.internal;
 import java.io.StringReader;
 import java.util.logging.Level;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import org.eclipse.core.runtime.IConfigurationElement;
 import org.eclipse.jface.action.GroupMarker;

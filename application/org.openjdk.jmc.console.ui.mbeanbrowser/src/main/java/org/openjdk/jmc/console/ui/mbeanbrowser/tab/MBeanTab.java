@@ -32,7 +32,7 @@
  */
 package org.openjdk.jmc.console.ui.mbeanbrowser.tab;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 import javax.management.MBeanServerConnection;
 
 import org.eclipse.swt.SWT;
